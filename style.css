@@ -17,7 +17,7 @@ body{
     color: white;
     border-style:solid;
     border-color: rgb(248, 187, 91);
-    border-radius: 5px;
+    border-radius: 25px;
     border-width: 8px;
     padding: 5px;
     font-size: 25px;
@@ -29,7 +29,7 @@ body{
     color: rgb(0, 0, 0);
     border-style:solid;
     border-color:rgb(164, 89, 0);
-    border-radius: 5px;
+    border-radius: 25px;
     border-width: 8px;
     padding: 5px;
     font-size: 25px;
@@ -41,7 +41,7 @@ body{
     color: bisque;
     border-style: solid;
     border-color: whitesmoke;
-    border-radius: 5px;
+    border-radius: 25px;
     border-width: 8px;
     padding: 5px;
     font-size: 25px;
