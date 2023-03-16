@@ -15,9 +15,9 @@ body{
 #butmenu{
     background-color: rgb(255, 187, 50);
     color: white;
-    border-style:outset;
+    border-style:solid;
     border-color: rgb(248, 187, 91);
-    border-radius: 2px;
+    border-radius: 5px;
     border-width: 8px;
     padding: 5px;
     font-size: 25px;
@@ -27,9 +27,9 @@ body{
 #butinsta{
     background-color: rgb(153, 79, 0);
     color: rgb(0, 0, 0);
-    border-style:outset;
+    border-style:solid;
     border-color:rgb(164, 89, 0);
-    border-radius: 2px;
+    border-radius: 5px;
     border-width: 8px;
     padding: 5px;
     font-size: 25px;
@@ -39,9 +39,9 @@ body{
 #butinfo{
     background-color: white;
     color: bisque;
-    border-style: outset;
+    border-style: solid;
     border-color: whitesmoke;
-    border-radius: 2px;
+    border-radius: 5px;
     border-width: 8px;
     padding: 5px;
     font-size: 25px;
@@ -51,9 +51,9 @@ body{
 #butback{
     background-color: white;
     color: bisque;
-    border-style: outset;
+    border-style: solid;
     border-color: whitesmoke;
-    border-radius: 2px;
+    border-radius: 5px;
     border-width: 8px;
     padding: 5px;
     font-size: 25px;
